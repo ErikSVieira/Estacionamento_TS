@@ -1,2 +1,7 @@
-# Estacionamento_TS
-Estacionamento usando TypeScript
+# Estacionamento Auto Parking
+## Criado sistema de estacionamento
+### Metodos usados:
+- TypeScript
+- JavaScript
+- HTML
+- CSS / BOOTSTRAP
